@@ -1,0 +1,1 @@
+{"name":"js-for-in-challenge","version":"1.0.0","main":"index.js","scripts":{"test":"jest"},"devDependencies":{"jest":"^29.5.0"}}
